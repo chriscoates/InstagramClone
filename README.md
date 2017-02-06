@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/chriscoates/instagram-challenge.svg?branch=master)](https://travis-ci.org/chriscoates/InstagramClone)
+[![Build Status](https://travis-ci.org/chriscoates/InstagramClone.svg?branch=master)](https://travis-ci.org/chriscoates/InstagramClone)
 
 Instagram Challenge
 ===================
